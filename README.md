@@ -1,5 +1,7 @@
 # gatsby-graphcms-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kosirm/gatsby-graphcms.svg)](https://greenkeeper.io/)
+
 Example of [@GraphCMS/gatsby-source-graphcms](https://github.com/GraphCMS/gatsby-source-graphcms)
 Please file any issues [over there](https://github.com/GraphCMS/gatsby-source-graphcms/issues) and label them `example`.
 
